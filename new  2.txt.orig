@@ -1,0 +1,30 @@
+Database Objects		File size (As on 12-May)	What does this file contain ?
+CharityDonation.json	1M 	 Donation detail for Loyalty ID
+DeleteMembersOffers.json 	 4M	 Which were deleted by the users
+ExpiredMemberOffers.json	 256M	 coupoun value, coupon type, exp date and etc
+GiftCardsInactiveBalancelnquires.json	 0M	Balance details
+GiftedMemberOffers.json 	3M 	Gifted from whom to whom , coupon typ and coup value and etc
+LoyaltyMembers.json	199M 	 Only loyalty members details .. name, email id and address and etc
+MemerAccounts.json	 72M	User detials,,like members id and cust id = barcode for each loyalty ID
+MemberGiftCardPayFezyTransaction.json	1M 	 Gift care payment details  for each loyalty id, reload and activated
+MemberGiftCards.json	1M	GiftCard details
+MemberLocations.,json	14G	docDate = location details 
+MemberOffers,json	852M	Member details, offers / coupon details
+MemberPromoCodes.json	1M	prmocode added to each member a/c details
+MembeSegmentationAnswers.json	1M	Segamnetioan Question and Answers
+MemberTransactionHistory.json	9M	history aboyut Total saved coupoins, reward points + last purchases for each loyalty ID
+RaceTracFeedback.json	376M	Feedback text for loyalty ID with timestamp
+RawMessages.json	21M	Raw Messages
+RedeemedMemberOffers.json	339M	captured redeem details for loyalty ID
+SegmentationAnswers.json	0M	all Segamnetioan Qs and Ans ( genrnal Q n A )
+MemberRewards.json	1M	detail about reward points , coupns and item code
+=============================================================================
+Checking revert
+===============================================================================
+
+Removing 
+================================================================
+<<<<<<< HEAD
+merging testing from dev to release
+=======
+>>>>>>> 88a783f... reset to older code
