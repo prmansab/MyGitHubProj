@@ -24,4 +24,7 @@ Checking revert
 
 Removing 
 ================================================================
+<<<<<<< HEAD
 merging testing from dev to release
+=======
+>>>>>>> 88a783f... reset to older code
