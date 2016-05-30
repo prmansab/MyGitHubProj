@@ -3,4 +3,8 @@ coding done and merge to Release brnach for QA testing
 
 Testing from Release to Dev merge
 
+<<<<<<< HEAD
 change made in release brnach
+=======
+change dev branch
+>>>>>>> origin/develop
