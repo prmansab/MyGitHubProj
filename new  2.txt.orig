@@ -24,7 +24,14 @@ Checking revert
 
 Removing 
 ================================================================
-<<<<<<< HEAD
 merging testing from dev to release
+<<<<<<< HEAD
+=======================================
+Trying from Source tree dev to relse merge
+==========================================
 =======
->>>>>>> 88a783f... reset to older code
+================================================================
+
+merge candidate from dev to relase 
+==========================
+>>>>>>> develop
