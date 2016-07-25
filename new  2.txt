@@ -1,31 +1,129 @@
-Database Objects		File size (As on 12-May)	What does this file contain ?
-CharityDonation.json	1M 	 Donation detail for Loyalty ID
-DeleteMembersOffers.json 	 4M	 Which were deleted by the users
-ExpiredMemberOffers.json	 256M	 coupoun value, coupon type, exp date and etc
-GiftCardsInactiveBalancelnquires.json	 0M	Balance details
-GiftedMemberOffers.json 	3M 	Gifted from whom to whom , coupon typ and coup value and etc
-LoyaltyMembers.json	199M 	 Only loyalty members details .. name, email id and address and etc
-MemerAccounts.json	 72M	User detials,,like members id and cust id = barcode for each loyalty ID
-MemberGiftCardPayFezyTransaction.json	1M 	 Gift care payment details  for each loyalty id, reload and activated
-MemberGiftCards.json	1M	GiftCard details
-MemberLocations.,json	14G	docDate = location details 
-MemberOffers,json	852M	Member details, offers / coupon details
-MemberPromoCodes.json	1M	prmocode added to each member a/c details
-MembeSegmentationAnswers.json	1M	Segamnetioan Question and Answers
-MemberTransactionHistory.json	9M	history aboyut Total saved coupoins, reward points + last purchases for each loyalty ID
-RaceTracFeedback.json	376M	Feedback text for loyalty ID with timestamp
-RawMessages.json	21M	Raw Messages
-RedeemedMemberOffers.json	339M	captured redeem details for loyalty ID
-SegmentationAnswers.json	0M	all Segamnetioan Qs and Ans ( genrnal Q n A )
-MemberRewards.json	1M	detail about reward points , coupns and item code
-=============================================================================
-Checking revert
-===============================================================================
-
-Removing 
-================================================================
-merging testing from dev to release
-================================================================
-
-merge candidate from dev to relase 
-==========================
+232364,84,Ashleighhart97@yahoo.com
+236794,111,dgirl0130@aol.com
+236890,115,dsherman900@gmail.com
+236897,459,cwmarykay@yahoo.com
+236898,440,michele.batchler@gmail.com
+243267,220,mb.alley0424@gmail.com
+250762,466,jdomsha@yahoo.com
+254726,27,rissa41@att.net
+255290,57,moechoc@yahoo.com
+255352,13,garyturner75@yahoo.con
+273398,264,lmartino235@aol.com
+274921,142,Aponder1991@gmail.com
+275278,214,johnson.m1895@gmail.com
+275379,52,for_mica@hotmail.com
+279921,127,esme_villegas@hotmail.com
+284411,455,cindy1talmid@yahoo.com
+287724,1479,shymotley@gmail.com
+293910,127,ragreen88@aol.com
+294725,157,jakegerrish8711@gmail.com
+294747,126,dugan93093@hotmail.com
+313033,238,phyllissandoval2013@gmail.com
+318173,28,crystalrich57@yahoo.com
+318987,303,ajp0413@gmail.com
+320263,95,dragonking9@Yahoo.com
+321404,75,young.david1@yahoo.com
+327250,114,billiewon777@gmail.com
+330717,391,brian.gogators1@gmail.com
+343440,47,preston.harden@gmail.com
+351550,764,neilbradley90@gmail.com
+360030,7,emsangelica07@gmail.com
+360952,79,nelsonj1515@yahoo.com
+368416,43,ashleycarlson1020@yahoo.com
+374566,49,deputychief4904@gmail.com
+383403,13,ffaangel602@yahoo.com
+387841,46,tarver_Mark@Yahoo.com
+390023,60,hotshot1692002@yahoo.com
+395385,0,stephenpersing@gmail.com
+396060,22,mdhite1970@gmail.com
+396693,347,linmn285@yahoo.com
+399358,79,trsigue@gmail.com
+399944,12,jimtyrell3@aol.com
+400048,2,notabtdabs@gmail.com
+401335,6,18r21s@gmail.com
+264,496,lisainniss@ymail.com
+581,620,dhgbryan@gmail.com
+628,244,ashleybarnard14@yahoo.com
+1751,543,jeremy@ki4aqt.net
+1762,406,tcasson14@gmail.com
+1879,78,gabbydont@aol.com
+2513,173,jbahls68@att.net
+2544,34,georgiagolfguy@gmail.com
+2692,337,renee_blackford@yahoo.com
+3210,246,gweaks2000@yahoo.com
+3466,1478,tresalopez@yahoo.com
+3615,109,loved0607@gmail.com
+5031,12,bslapion@gmail.com
+6057,66,pixie062@verizon.net
+12204,386,macleanjanet@comcast.net
+14231,111,kevinkelley300@gmail.com
+17220,239,jtanner44@cfl.rr.com
+19049,78,Chollsy@gmail.com
+24096,41,brad485@gmail.com
+24408,705,Msheff37@aol.com
+25171,637,fb:10153305843306595
+33103,164,Homelesshobbit@gmail.com
+33823,0,neilmcfarland@msn.com
+36626,621,ozzy6568@gmail.com
+38728,71,pittercarina@ymail.com
+45877,2033,pobox1382woodstock@gmail.com
+51419,62,mikehawkinssr@gmail.com
+52483,34,dedbunniez@gmail.com
+52567,510,popsters0123@aol.com
+53133,147,danielcase55@yahoo.com
+53500,36,rachel.cowart@comcast.net
+54692,1816,Breannawilson32@gmail.com
+57403,634,monicboyd68@gmail.com
+60102,213,jenb52@gmail.com
+60681,1009,jax2195x@gmail.com
+61702,222,bamadeo1109@gmail.com
+66265,23,erichale22@gmail.com
+68152,414,JCTondorf@yahoo.com
+70154,412,boxhoseandgunhandler911@yahoo.com
+71079,283,evol1962@gmail.com
+72611,449,rtsnfl@gmail.com
+73794,362,ryanmitchell3@my.unt.edu
+74071,183,fb:1216952611650699
+232364,84,Ashleighhart97@yahoo.com
+236794,111,dgirl0130@aol.com
+236890,115,dsherman900@gmail.com
+236897,459,cwmarykay@yahoo.com
+236898,440,michele.batchler@gmail.com
+243267,220,mb.alley0424@gmail.com
+250762,466,jdomsha@yahoo.com
+254726,27,rissa41@att.net
+255290,57,moechoc@yahoo.com
+255352,13,garyturner75@yahoo.con
+273398,264,lmartino235@aol.com
+274921,142,Aponder1991@gmail.com
+275278,214,johnson.m1895@gmail.com
+275379,52,for_mica@hotmail.com
+279921,127,esme_villegas@hotmail.com
+284411,455,cindy1talmid@yahoo.com
+287724,1479,shymotley@gmail.com
+293910,127,ragreen88@aol.com
+294725,157,jakegerrish8711@gmail.com
+294747,126,dugan93093@hotmail.com
+313033,238,phyllissandoval2013@gmail.com
+318173,28,crystalrich57@yahoo.com
+318987,303,ajp0413@gmail.com
+320263,95,dragonking9@Yahoo.com
+321404,75,young.david1@yahoo.com
+327250,114,billiewon777@gmail.com
+330717,391,brian.gogators1@gmail.com
+343440,47,preston.harden@gmail.com
+351550,764,neilbradley90@gmail.com
+360030,7,emsangelica07@gmail.com
+360952,79,nelsonj1515@yahoo.com
+368416,43,ashleycarlson1020@yahoo.com
+374566,49,deputychief4904@gmail.com
+383403,13,ffaangel602@yahoo.com
+387841,46,tarver_Mark@Yahoo.com
+390023,60,hotshot1692002@yahoo.com
+395385,0,stephenpersing@gmail.com
+396060,22,mdhite1970@gmail.com
+396693,347,linmn285@yahoo.com
+399358,79,trsigue@gmail.com
+399944,12,jimtyrell3@aol.com
+400048,2,notabtdabs@gmail.com
+401335,6,18r21s@gmail.com
